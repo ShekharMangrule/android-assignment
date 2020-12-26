@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SRM-Launcher</string>
+    <string name="text_search_hint">Type to search..</string>
+    <string name="text_pkg">Pkg: %1$s</string>
+    <string name="text_main_activity">Main Activity: %1$s</string>
+    <string name="text_version_code">Version Code: %1$s</string>
+    <string name="text_version_name">Version Name: %1$s</string>
+    <string name="text_sort_asc">Sort by Ascending</string>
+    <string name="text_sort_dsc">Sort by Descending</string>
+</resources>
