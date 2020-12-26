@@ -1,4 +1,4 @@
-# android-assignment - PURE KOTLIN
+# SRM-Launcher - Android-Assignement - PURE KOTLIN
 
 # Task 1
 
